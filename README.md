@@ -31,9 +31,15 @@ Trained on the **CIFAR-10** dataset, this system combines **custom CNN architect
 
 ---
 
-## ⚙️ Installation & Usage
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+🛠️ Technologies Used
+
+Python 3.x
+
+TensorFlow / Keras
+
+NumPy, Pandas, Matplotlib, Seaborn
+
+OpenCV (for preprocessing)
+
+ResNet50 (transfer learning)
